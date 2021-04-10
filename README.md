@@ -6,6 +6,7 @@ I'm fluent in quite a few languages, but I especially enjoy TypeScript, React, G
 
 ### Some super cool projects
 
+- [@da-stoi](https://github.com/da-stoi) and I created [@CovaxSF](https://twitter.com/covaxsf) which checks for vaccine appointments in the SF Bay Area.
 - 🖩 I created [CanvasCBL](https://canvascbl.com), a grade calculator for my school. It's written in React and Redux on the frontend and Go on the backend. [Check out its code!](https://go.canvascbl.com/code)
 - 🤖 I'm working on a modular Discord bot called [Omnibot](http://yammer.me/omnibot)
 - 📁 I'm also trying to fix Chrome tabs. More info is coming soon!
