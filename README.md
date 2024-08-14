@@ -1,8 +1,8 @@
 ## Hi there 👋 I'm Sam.
 
-I'm an Electrical and Computer Engineering student, full-stack developer, and founder of CanvasCBL. I'm also GoGuardian's first Bug Bounty winner!
+I'm an Electrical and Computer Engineering Senior at Olin College and an AI Safety Intern at Zoox, Amazon's purpose-built robotaxi company.
 
-I'm fluent in quite a few languages, but I especially enjoy TypeScript, React, Go, and C#.
+I'm fluent in many languages, but I especially enjoy TypeScript, React, Go, and C#.
 
 ### Some super cool projects
 
@@ -11,7 +11,6 @@ I'm fluent in quite a few languages, but I especially enjoy TypeScript, React, G
 - [@da-stoi](https://github.com/da-stoi) and I created [@CovaxSF](https://twitter.com/covaxsf) which Tweeted when COVID-19 vaccine appointments opened up
 - 🖩 I created [CanvasCBL](https://canvascbl.com), a grade calculator for my high school. It's written in React and Redux on the frontend and Go on the backend. [Check out its code!](https://go.canvascbl.com/code)
 - [ChromebookGUI](https://github.com/iamtheyammer/gam-cros-win-wrapper) makes it way easier to manage fleets of Chromebooks
-- 🤖 I'm working on a modular Discord bot called [Omnibot](http://yammer.me/omnibot)
 
 ### Contact
 
