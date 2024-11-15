@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Sam.
 
-I'm an Electrical and Computer Engineering Senior at Olin College and an AI Safety Intern at [Zoox](https://zoox.com), Amazon's purpose-built robotaxi company.
+I'm an Electrical and Computer Engineering Senior at Olin College. In summer 2024, I was an AI Safety Intern at [Zoox](https://zoox.com), Amazon's purpose-built robotaxi company.
 
 I'm fluent in many languages, but I especially enjoy TypeScript, React, Go, and C#.
 
